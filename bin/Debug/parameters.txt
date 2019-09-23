@@ -1,0 +1,2 @@
+ZIP_HOME=C:\Program Files\7-Zip\
+SOURCE_DIRECTORIES=C:\Users\des02w7\Downloads\apache-jmeter-2.6,C:\Users\des02w7\Downloads\apache-jmeter-2.8,C:\Users\des02w7\Downloads\apache-jmeter-3.3

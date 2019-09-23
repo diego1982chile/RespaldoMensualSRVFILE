@@ -1,0 +1,6 @@
+C:\Users\des02w7\source\repos\RespaldoMensualSRVFILE\bin\Debug\RespaldoMensualSRVFILE.exe
+C:\Users\des02w7\source\repos\RespaldoMensualSRVFILE\bin\Debug\RespaldoMensualSRVFILE.pdb
+C:\Users\des02w7\source\repos\RespaldoMensualSRVFILE\obj\Debug\RespaldoMensualSRVFILE.csprojAssemblyReference.cache
+C:\Users\des02w7\source\repos\RespaldoMensualSRVFILE\obj\Debug\RespaldoMensualSRVFILE.csproj.CoreCompileInputs.cache
+C:\Users\des02w7\source\repos\RespaldoMensualSRVFILE\obj\Debug\RespaldoMensualSRVFILE.exe
+C:\Users\des02w7\source\repos\RespaldoMensualSRVFILE\obj\Debug\RespaldoMensualSRVFILE.pdb
