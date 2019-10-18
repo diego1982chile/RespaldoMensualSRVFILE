@@ -1,0 +1,13 @@
+03-10-2019 0:00:00
+Directorio 'C:\AreaTC-Conciliaciones' copiado exitosamente
+Directorio ' "C:\COPIED FILES\1909.zip" ' comprimido exitosamente
+Archivo ' "C:\COPIED FILES\1909.zip.encrypted" ' encriptado exitosamente
+Archivo ' "C:\COPIED FILES\1909.zip.encrypted" ' subido exitosamente
+08-10-2019 0:00:00
+
+08-10-2019 0:00:00
+
+11-10-2019 0:00:00
+Directorio 'C:\AreaTC-Conciliaciones' copiado exitosamente
+Directorio(s)  "C:\COPIED FILES\AreaTC-Conciliaciones"  comprimido(s) exitosamente
+Archivo  "C:\COPIED FILES\1909.zip.encrypted"  encriptado exitosamente
